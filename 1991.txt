@@ -1,0 +1,8 @@
+***********************************************
+                  RECEIPT                      
+
+Food Items 	 Quantity 	 Cost
+***********************************************
+De Anza Burger		2		$10.5
+Mushroom Swiss		2		$11.9
+Total amount :  	$22.4
