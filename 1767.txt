@@ -1,0 +1,9 @@
+***********************************************
+                  RECEIPT                      
+
+Food Items 	 Quantity 	 Cost
+***********************************************
+Bacon Cheese		1		$5.75
+Total amount :  	$5.75
+Tax amount:         	$0.5175
+Total after tax:    	$6.2675
